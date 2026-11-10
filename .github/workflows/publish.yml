@@ -1,4 +1,4 @@
-name: Publish dashboard
+name: Publicar la charla
 
 on:
   workflow_dispatch:
