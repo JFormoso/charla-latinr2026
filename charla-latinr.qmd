@@ -410,4 +410,6 @@ Para una organización con muchos documentos y una identidad compartida:
 :::
 :::
 
-metadocencia.github.io/metadocencia - info@metadocencia.org
+::: {style="font-size:.5em; margin-top:2em;"}
+© 2026 Jesica Formoso e Irene Vazano · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
+:::
